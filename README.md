@@ -1,10 +1,13 @@
 
 **Objetivo**
+
+
 O objetivo desta atividade é desenvolver uma calculadora chamada "Churrascômetro" que tem o intuito de calcular os itens para um churrasco. A página funciona em 3 passos, alterando os dados dinamicamente para construir novos componentes.
 
 Primeiramente é exibido 4 campos, sendo eles "nome, e-mail, CEP e um checkbox de promoções". Após isso, é carregado outro formulário para o usuário fornecer quantas pessoas haverão no churrasco. E, por fim, é criada uma tabela com a quantidade de itens que deverão conter no churrasco para a quantidade de pessoas fornecedidas, onde o usuário pode baixar os dados em um arquivo txt ou retroceder para editar a quantidade de pessoas.
 
 **Tabela de referência**
+
 
 Carne:
 0,4 KG por homem;
